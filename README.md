@@ -9,7 +9,6 @@ The game project was created on 2014 while the author was still in college and w
 The author decided to create the project with a single class containing only 1166 lines of code (including spaces) to show how easy and simple it is to create a game using the AndEngine library which is the same library used to create the original Flappy Bird on Android.
 
 ###Tools Used
-The following are the tools used to create the game project.
 - ~~Eclipse ADT~~ [Android Studio](https://developer.android.com/studio/index.html#win-bundle)
 - [Android SDK](https://dl.google.com/android/android-sdk_r24.4.1-windows.zip)
 - [AndEngine](https://github.com/nicolasgramlich/AndEngine)
@@ -29,4 +28,4 @@ The following are the tools used to create the game project.
 <img src="./screenshots/12.png" alt="Screenshot12" width="200"/>
 
 #Download
-[Maya Bird - APK](https://www.dropbox.com/s/vag2oadrddqktym/MayaBird.apk?dl=0)
+[Maya Bird - APK](./download/MayaBird.apk)
