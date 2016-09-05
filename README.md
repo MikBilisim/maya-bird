@@ -3,14 +3,15 @@ This is a Flappy Bird clone game running on mobile Android platform and is made 
 
 The term *maya* refers to a folk taxon often used in the Philippines to refer to a variety of small, commonly observed passerine birds, including a number of sparrows, finches and munias. It was chosen as the type of bird to be used as the game's character design because it is a common bird in the Philippines and was previously known to be the country's national bird.
 
-The game project was created on 2014 while the author was still in college and was presented under the DCSIS, USM (Department of Computer Science and Information Systems, University of Southern Mindanao) as part of a booth presentation including different student software projects in an annual event called PSITE-PSITS convention. Though the game was originally made for learning Android development, Game development and AndEngine library, it was later modified to cater project presentation needs for some events and project requirements.
+The game project was created on 2014 while the author was still in college and was presented under the DCSIS, USM (Department of Computer Science and Information Systems, University of Southern Mindanao) as part of a booth presentation including different student software projects in an annual event called PSITE-PSITS convention. Though the game was originally made from a [tutorial](http://www.appsrox.com/android/tutorials/flappychick/) for learning Android development, Game development and AndEngine library, it was later modified to cater project presentation needs for some events and project requirements.
 
 #Development
-The author decided to create the project with a single class containing only 1166 lines of code (including spaces) to show how easy and simple it is to create a game using the AndEngine library which is the same library used to create Flappy Bird on Android.
+The author decided to create the project with a single class containing only 1166 lines of code (including spaces) to show how easy and simple it is to create a game using the AndEngine library which is the same library used to create the original Flappy Bird on Android.
 
 ###Tools Used
+The following are the tools used to create the game project.
 - ~~Eclipse ADT~~ [Android Studio](https://developer.android.com/studio/index.html#win-bundle)
-- [Android SDK](https://dl.google.com/dl/android/studio/install/2.1.3.0/android-studio-bundle-143.3101438-windows.exe)
+- [Android SDK](https://dl.google.com/android/android-sdk_r24.4.1-windows.zip)
 - [AndEngine](https://github.com/nicolasgramlich/AndEngine)
 
 #Screenshots
