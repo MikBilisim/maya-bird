@@ -28,4 +28,4 @@ The author decided to create the project with a single class containing only 116
 <img src="./screenshots/12.png" alt="Screenshot12" width="200"/>
 
 #Download
-[Maya Bird - APK](./download/MayaBird.apk)
+[Maya Bird - APK](https://github.com/arvicxyz/maya-bird/raw/master/download/MayaBird.apk)
