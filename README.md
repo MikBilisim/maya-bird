@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 This is a Flappy Bird clone game running on mobile Android platform and is made using AndEngine. Maya Bird has similar gameplay with Flappy Bird. The only difference is instead of going through a gap between two facing pipes to score, you have the ability to eat two types of *flappy bird* that either adds or reduces your score. The yellow bird gives +1 to your score and the red bird gives -1 to your score.
 
@@ -6,17 +6,17 @@ The term *maya* refers to a folk taxon often used in the Philippines to refer to
 
 The game project was created on 2014 while the author was still in college and was presented under the DCSIS, USM (Department of Computer Science and Information Systems, University of Southern Mindanao) as part of a booth presentation including different student software projects in an annual event called PSITE-PSITS convention. Though the game was originally made from a [tutorial](http://www.appsrox.com/android/tutorials/flappychick/) for learning Android development, Game development and AndEngine library, it was later modified to cater project presentation needs for some events and project requirements.
 
-#Development
+# Development
 
 The author decided to create the project with a single class containing only 1166 lines of code (including spaces) to show how easy and simple it is to create a game using the AndEngine library which is the same library used to create the original Flappy Bird on Android.
 
-###Tools Used
+### Tools Used
 
 - ~~Eclipse ADT~~ [Android Studio](https://developer.android.com/studio/index.html#win-bundle)
 - [Android SDK](https://dl.google.com/android/android-sdk_r24.4.1-windows.zip)
 - [AndEngine](https://github.com/nicolasgramlich/AndEngine)
 
-#Screenshots
+# Screenshots
 
 <img src="./screenshots/1.png" alt="Screenshot1" width="200"/>
 <img src="./screenshots/2.png" alt="Screenshot2" width="200"/>
@@ -31,6 +31,6 @@ The author decided to create the project with a single class containing only 116
 <img src="./screenshots/11.png" alt="Screenshot11" width="200"/>
 <img src="./screenshots/12.png" alt="Screenshot12" width="200"/>
 
-#Download
+# Download
 
 [Maya Bird - APK](https://github.com/arvicxyz/maya-bird/raw/master/download/MayaBird.apk)
